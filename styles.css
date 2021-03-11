@@ -148,4 +148,7 @@ p {
   color:whitesmoke;
   text-decoration: none;
 }
-
+.footer-logo{
+  width: 20px;
+  padding: 10px 5px;
+}
